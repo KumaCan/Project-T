@@ -1,3 +1,11 @@
-h1 {
-    color: red;
+cody {
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
 }
+hr {
+    padding: 20px 0;
+    border: none;
+  }
+  
+  .hr1 {
+    border-top: 1px solid #000;
+  }

@@ -1,6 +1,8 @@
+/* フォント変更 */
 cody {
     font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
 }
+/* ライン */
 hr {
     padding: 20px 0;
     border: none;
@@ -8,4 +10,8 @@ hr {
   
   .hr1 {
     border-top: 1px solid #000;
+  }
+
+  body {
+    background-color: rgb(188, 226, 232);
   }
